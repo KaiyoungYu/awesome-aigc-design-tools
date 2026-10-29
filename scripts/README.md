@@ -12,15 +12,18 @@ Published entries are grouped by category. Each item shows the English blurb and
 
 ## Categories
 
-Categories are job/intent based, not packaging. The generator accepts only these five values. `design-tool`, `toolsite`, and `designer-site` are not valid and are not aliases.
+Categories are job/intent based, not packaging. The generator accepts only these six values. `design-tool`, `toolsite`, and `designer-site` are not valid and are not aliases.
 
 | `category` | README heading | Intent |
 | --- | --- | --- |
-| `create` | Create | AI/design products you open to make or iterate UI (wireframe, hi-fi, edit). 创作工具. |
+| `create` | Create | Products you open to make or iterate UI and prototypes (wireframe, hi-fi, edit). 创作工具. |
+| `workspace` | Workspace | Canvas-first AI workspaces that route generation, tools, assets, and tasks. Not UI-specific design products. 画布工作台. |
 | `components` | Components | Shippable kits or parts for a project or design file. 可交付组件. Static shippable parts belong here. |
 | `motion` | Motion | Cursor, scroll, transition, and micro-interaction. 动效与交互. |
 | `inspiration` | Inspiration | Portfolios, galleries, and reference sites. 灵感与参考. |
 | `plugin` | Plugins | Figma, Framer, and Sketch host extensions. 宿主插件. |
+
+`create` is for making or iterating UI and prototypes. `workspace` is for canvas-first AI workspaces that route generation, tools, assets, and tasks, and is not a UI-specific design product. Pure chat apps and one-shot image sites stay out of both.
 
 A collection expands to individual entries. Showcase sites are usually not entries unless they are inspiration sources.
 
@@ -31,7 +34,7 @@ A collection expands to individual entries. Showcase sites are usually not entri
 | `name` | yes | Display name |
 | `url` | yes | Canonical `https` URL |
 | `type` | yes | `single`, `component`, or `collection` |
-| `category` | yes | `create`, `components`, `motion`, `inspiration`, or `plugin` |
+| `category` | yes | `create`, `workspace`, `components`, `motion`, `inspiration`, or `plugin` |
 | `blurb` | yes | Short English one-liner |
 | `stack` | no | List of strings |
 | `pricing` | no | Short note |

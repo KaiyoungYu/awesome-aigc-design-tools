@@ -20,6 +20,7 @@ README_PATH = ROOT / "README.md"
 TYPES = {"single", "component", "collection"}
 CATEGORIES = (
     "create",
+    "workspace",
     "components",
     "motion",
     "inspiration",
@@ -27,6 +28,7 @@ CATEGORIES = (
 )
 CATEGORY_TITLES = {
     "create": "Create",
+    "workspace": "Workspace",
     "components": "Components",
     "motion": "Motion",
     "inspiration": "Inspiration",
