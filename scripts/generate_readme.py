@@ -19,17 +19,17 @@ README_PATH = ROOT / "README.md"
 
 TYPES = {"single", "component", "collection"}
 CATEGORIES = (
-    "design-tool",
+    "create",
     "components",
-    "toolsite",
-    "designer-site",
+    "motion",
+    "inspiration",
     "plugin",
 )
 CATEGORY_TITLES = {
-    "design-tool": "Design tools",
+    "create": "Create",
     "components": "Components",
-    "toolsite": "Tool sites",
-    "designer-site": "Designer sites",
+    "motion": "Motion",
+    "inspiration": "Inspiration",
     "plugin": "Plugins",
 }
 REQUIRED = (
@@ -74,7 +74,7 @@ def load_entries() -> list[dict]:
 
         if data["type"] not in TYPES:
             fail(f"{path.name}: invalid type {data['type']!r}")
-        if data["category"] not in CATEGORY_TITLES:
+        if data["category"] not in CATEGORIES:
             fail(f"{path.name}: invalid category {data['category']!r}")
         if data["status"] != "published":
             fail(f"{path.name}: status must be 'published'")

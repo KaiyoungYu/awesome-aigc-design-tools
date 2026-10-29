@@ -10,7 +10,7 @@ python3 scripts/generate_readme.py
 
 See [scripts/README.md](scripts/README.md).
 
-## Design tools
+## Create
 
 - [Onlook](https://onlook.com/) — The Cursor for Designers
   > 推荐理由：定位清晰的「设计师版 Cursor」，把 AI 直接嵌进设计制作流程。
@@ -24,7 +24,7 @@ See [scripts/README.md](scripts/README.md).
   > 推荐理由：动效完成度高、可复制进项目，工程友好，覆盖 Web + Native。
   > Stack: React, Next, Motion, Tailwind, RN · Pricing: MIT + Pro
 
-## Tool sites
+## Motion
 
 - [Trail Cursor (Cursify)](https://cursify.ui-layouts.com/components/trail-cursor) — React trail/cursor effect component.
   > 推荐理由：轻量鼠标拖尾交互，含 reduced-motion，适合 toolsite/动效参考。
