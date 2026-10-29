@@ -1,0 +1,12 @@
+name: Opentu
+url: https://opentu.ai/
+type: single
+category: create
+blurb: Open-source canvas-first AI workspace that routes multi-model generation, tools, assets, and knowledge in one place.
+stack:
+  - TypeScript
+pricing: 开源
+reason: 以画布把多模型生成、工具与素材收进同一工作区，开源可自托管，适合需要持续执行 AI 创作任务的设计/产品流程；GitHub 仓库现为 ljquan/opentu（原 aitu）。
+notes: 偏通用 AI 画布工作台，不完全是 UI/UX 专用工具；经维护者明确批准仍收在 create。
+status: published
+updated: "2026-10-29"
