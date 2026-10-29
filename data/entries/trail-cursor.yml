@@ -1,0 +1,8 @@
+name: Trail Cursor (Cursify)
+url: https://cursify.ui-layouts.com/components/trail-cursor
+type: component
+category: toolsite
+blurb: React trail/cursor effect component.
+reason: 轻量鼠标拖尾交互，含 reduced-motion，适合 toolsite/动效参考。
+status: published
+updated: "2026-10-29"

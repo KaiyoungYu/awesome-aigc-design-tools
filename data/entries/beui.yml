@@ -1,0 +1,15 @@
+name: beUI
+url: https://beui.dev/
+type: collection
+category: components
+blurb: Animated components for React and Next.js (Motion + Tailwind, open source).
+stack:
+  - React
+  - Next
+  - Motion
+  - Tailwind
+  - RN
+pricing: MIT + Pro
+reason: 动效完成度高、可复制进项目，工程友好，覆盖 Web + Native。
+status: published
+updated: "2026-10-29"
