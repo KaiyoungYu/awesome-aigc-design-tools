@@ -15,13 +15,15 @@ See [scripts/README.md](scripts/README.md).
 - [Onlook](https://onlook.com/) — The Cursor for Designers
   > 推荐理由：定位清晰的「设计师版 Cursor」，把 AI 直接嵌进设计制作流程。
 
-- [Opentu](https://opentu.ai/) — Open-source canvas-first AI workspace that routes multi-model generation, tools, assets, and knowledge in one place.
-  > 推荐理由：以画布把多模型生成、工具与素材收进同一工作区，开源可自托管，适合需要持续执行 AI 创作任务的设计/产品流程；GitHub 仓库现为 ljquan/opentu（原 aitu）。
-  > Stack: TypeScript · Pricing: 开源
-  > 注意：偏通用 AI 画布工作台，不完全是 UI/UX 专用工具；经维护者明确批准仍收在 create。
-
 - [UIZard](https://uizard.io/) — Visualize, communicate, and iterate on wireframes and prototypes in minutes. Empower your product team with AI!
   > 推荐理由：把线框、沟通、迭代压到分钟级，适合产品/设计团队快速对齐界面方案。
+
+## Workspace
+
+- [Opentu](https://opentu.ai/) — Open-source canvas-first AI workspace that routes multi-model generation, tools, assets, and knowledge in one place.
+  > 推荐理由：以画布把多模型生成、工具与素材收进同一工作区，符合 workspace；开源可自托管，适合需要持续执行 AI 创作任务的设计/产品流程；GitHub 仓库现为 ljquan/opentu（原 aitu）。
+  > Stack: TypeScript · Pricing: 开源
+  > 注意：偏通用 AI 画布工作台，不是 UI/UX 专用创作产品。
 
 ## Components
 
