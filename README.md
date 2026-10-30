@@ -35,3 +35,10 @@ See [scripts/README.md](scripts/README.md).
 
 - [Trail Cursor (Cursify)](https://cursify.ui-layouts.com/components/trail-cursor) — React trail/cursor effect component.
   > 推荐理由：轻量鼠标拖尾交互，含 reduced-motion，适合 toolsite/动效参考。
+
+## Learn
+
+- [KurTips (Kurt Wei)](https://kurtwei.com/) — Blender tutorial brand and personal site by Kurt Wei, a former product engineer turned 3D artist and educator.
+  > 推荐理由：中国影响力最大的 Blender 教学频道之一，官网沉淀课程品牌与路径，审美与完成度高，适合作为 3D 创作学习入口。
+  > Pricing: 免费
+  > 注意：主业是教学而非 UI/UX 工具；经维护者批准收录在 learn。X @kurtips。

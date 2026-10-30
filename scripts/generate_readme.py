@@ -24,6 +24,7 @@ CATEGORIES = (
     "components",
     "motion",
     "inspiration",
+    "learn",
     "plugin",
 )
 CATEGORY_TITLES = {
@@ -32,6 +33,7 @@ CATEGORY_TITLES = {
     "components": "Components",
     "motion": "Motion",
     "inspiration": "Inspiration",
+    "learn": "Learn",
     "plugin": "Plugins",
 }
 REQUIRED = (
