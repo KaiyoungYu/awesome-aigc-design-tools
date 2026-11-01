@@ -28,6 +28,11 @@ Collect great AIGC powered ui ux design tools.
   > Stack: React, Vue, Figma, MCP · Pricing: 开源（Apache-2.0）
   > 注意：Fill 仍在补齐；sketch 仅官网/Figma；开源仓 github.com/asorn/qingicon-open。
 
+- [ReactDrops](https://reactdrops.dev/) — React animation and effect components with live previews, editable source, and frequent new drops (incl. Apple Music–style effects).
+  > 推荐理由：创意动效更新快，含玻璃/物理等可落地组件，适合想和「AI 同质化界面」拉开差距的站点。
+  > Stack: React, TypeScript, WebGL · Pricing: 免费（自定义许可，成品可用）
+  > 注意：不可再分发为组件库/模板；仓 github.com/crisjavr/reactdrops。
+
 ## Motion
 
 - [Trail Cursor (Cursify)](https://cursify.ui-layouts.com/components/trail-cursor) — React trail/cursor effect component.
