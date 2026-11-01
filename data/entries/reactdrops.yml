@@ -1,0 +1,14 @@
+name: ReactDrops
+url: https://reactdrops.dev/
+type: collection
+category: components
+blurb: React animation and effect components with live previews, editable source, and frequent new drops (incl. Apple Music–style effects).
+stack:
+  - React
+  - TypeScript
+  - WebGL
+pricing: 免费（自定义许可，成品可用）
+reason: 创意动效更新快，含玻璃/物理等可落地组件，适合想和「AI 同质化界面」拉开差距的站点。
+notes: 不可再分发为组件库/模板；仓 github.com/crisjavr/reactdrops。
+status: published
+updated: "2026-11-01"
