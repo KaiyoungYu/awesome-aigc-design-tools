@@ -31,6 +31,11 @@ See [scripts/README.md](scripts/README.md).
   > 推荐理由：动效完成度高、可复制进项目，工程友好，覆盖 Web + Native。
   > Stack: React, Next, Motion, Tailwind, RN · Pricing: MIT + Pro
 
+- [Qing Icon](https://qingicon.com/) — Free neutral UI icon library (3900+) with line/fill/sketch, React & Vue, Figma plugin, and MCP for AI tools.
+  > 推荐理由：中性、光学一致、中英检索，且 MCP 方便 AI 直接找图标出码，适合 AI/云产品界面。
+  > Stack: React, Vue, Figma, MCP · Pricing: 开源（Apache-2.0）
+  > 注意：Fill 仍在补齐；sketch 仅官网/Figma；开源仓 github.com/asorn/qingicon-open。
+
 ## Motion
 
 - [Trail Cursor (Cursify)](https://cursify.ui-layouts.com/components/trail-cursor) — React trail/cursor effect component.

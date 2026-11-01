@@ -1,0 +1,15 @@
+name: Qing Icon
+url: https://qingicon.com/
+type: single
+category: components
+blurb: Free neutral UI icon library (3900+) with line/fill/sketch, React & Vue, Figma plugin, and MCP for AI tools.
+stack:
+  - React
+  - Vue
+  - Figma
+  - MCP
+pricing: 开源（Apache-2.0）
+reason: 中性、光学一致、中英检索，且 MCP 方便 AI 直接找图标出码，适合 AI/云产品界面。
+notes: Fill 仍在补齐；sketch 仅官网/Figma；开源仓 github.com/asorn/qingicon-open。
+status: published
+updated: "2026-10-30"
