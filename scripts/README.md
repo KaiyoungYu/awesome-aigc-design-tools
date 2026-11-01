@@ -1,6 +1,8 @@
 # Generate the list
 
-`README.md` is generated from one YAML file per entry in [`data/entries/`](../data/entries/). Edit those files, then run:
+This file is the maintainer guide. The public [`README.md`](../README.md) is the user-facing list only and does not include these generator instructions.
+
+`README.md` is generated from one YAML file per entry in [`data/entries/`](../data/entries/). Edit the YAML files, then regenerate. Do not edit `README.md` by hand.
 
 ```bash
 python3 scripts/generate_readme.py
