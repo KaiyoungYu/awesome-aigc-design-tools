@@ -19,6 +19,11 @@ Collect great AIGC powered ui ux design tools.
 
 ## Components
 
+- [Animal Island UI](https://guokaigdg.github.io/animal-island-ui/) — Kawaii React + TypeScript UI kit with a cozy Animal Crossing–inspired design language.
+  > 推荐理由：风格统一、组件齐全且带 AI 用法文档，适合做风格化界面练习与快速原型。
+  > Stack: React, TypeScript · Pricing: 开源（MIT）
+  > 注意：非任天堂官方；仓 github.com/guokaigdg/animal-island-ui。个别文档曾写非商用，以根目录 MIT LICENSE 为准。
+
 - [beUI](https://beui.dev/) — Animated components for React and Next.js (Motion + Tailwind, open source).
   > 推荐理由：动效完成度高、可复制进项目，工程友好，覆盖 Web + Native。
   > Stack: React, Next, Motion, Tailwind, RN · Pricing: MIT + Pro

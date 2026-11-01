@@ -1,0 +1,13 @@
+name: Animal Island UI
+url: https://guokaigdg.github.io/animal-island-ui/
+type: collection
+category: components
+blurb: Kawaii React + TypeScript UI kit with a cozy Animal Crossing–inspired design language.
+stack:
+  - React
+  - TypeScript
+pricing: 开源（MIT）
+reason: 风格统一、组件齐全且带 AI 用法文档，适合做风格化界面练习与快速原型。
+notes: 非任天堂官方；仓 github.com/guokaigdg/animal-island-ui。个别文档曾写非商用，以根目录 MIT LICENSE 为准。
+status: published
+updated: "2026-11-01"
