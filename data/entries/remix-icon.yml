@@ -1,0 +1,14 @@
+name: Remix Icon
+url: https://remixicon.com/
+type: single
+category: components
+blurb: Open-source neutral system icons (3200+) with paired Outlined and Filled styles on a 24×24 grid.
+stack:
+  - SVG
+  - React
+  - Figma
+pricing: 免费（Remix Icon License，可商用）
+reason: line/fill 成对设计，正好支撑开/关、启用/禁用等状态切换；中性一致、检索友好，也含不少 AI 相关图标。
+notes: X @remixdesigner；仓 github.com/Remix-Design/RemixIcon；亦有 @remixicon/react。
+status: published
+updated: "2026-11-02"

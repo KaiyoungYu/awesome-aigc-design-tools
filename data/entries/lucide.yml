@@ -1,0 +1,15 @@
+name: Lucide
+url: https://lucide.dev/
+type: single
+category: components
+blurb: Community-maintained open icon toolkit (1600+ SVGs), Feather fork, with official packages across major frameworks.
+stack:
+  - React
+  - Vue
+  - Svelte
+  - Figma
+pricing: 开源（ISC）
+reason: 轻量一致的默认功能图标底座，社区活跃、包生态全；产品里表意优先的系统图标常从 Lucide 起步，再按需换成 Remix / Hugeicons 等。
+notes: 仓 github.com/lucide-icons/lucide；不收录品牌 logo。
+status: published
+updated: "2026-11-02"

@@ -1,0 +1,15 @@
+name: Hugeicons
+url: https://hugeicons.com/
+type: single
+category: components
+blurb: Large multi-style icon system (60k+; 6k+ free Stroke Rounded) for web, mobile, and Figma, with framework packages and MCP.
+stack:
+  - React
+  - Vue
+  - Figma
+  - MCP
+pricing: Freemium（免费 Stroke Rounded MIT；Pro 多风格按席位）
+reason: 体量大、线面与多风格齐全，适合功能图标的状态成组（开/关、展开/折叠等）；和 Lucide、Qing Icon 互补，偏产品完成度与多端交付。
+notes: X @huge_icons；仓 github.com/hugeicons/hugeicons。Pro 不可作为可下载模板/开源包再分发。
+status: published
+updated: "2026-11-02"
