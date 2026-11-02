@@ -28,6 +28,11 @@ Collect great AIGC powered ui ux design tools.
   > 推荐理由：动效完成度高、可复制进项目，工程友好，覆盖 Web + Native。
   > Stack: React, Next, Motion, Tailwind, RN · Pricing: MIT + Pro
 
+- [BoardUI](https://www.boardui.com/) — React + Tailwind v4 design system for dashboards and agentic UIs; CLI/MCP installs editable source components, charts, and Pro templates.
+  > 推荐理由：源码落地、shadcn 风格 registry，并专做 agent composer、token meter 与 MCP，适合后台与 AI 产品界面，而不是锁定的 npm 黑盒组件库。
+  > Stack: React, Tailwind CSS v4, React Aria, Figma · Pricing: Freemium（基础 MIT 免费；图表 / agent 组件 / 整页模板 Pro）
+  > 注意：约 103 组件 + 19 charts + 10 Pro templates；`npx boardui@latest`；MCP https://www.boardui.com/mcp。
+
 - [Qing Icon](https://qingicon.com/) — Free neutral UI icon library (3900+) with line/fill/sketch, React & Vue, Figma plugin, and MCP for AI tools.
   > 推荐理由：中性、光学一致、中英检索，且 MCP 方便 AI 直接找图标出码，适合 AI/云产品界面。
   > Stack: React, Vue, Figma, MCP · Pricing: 开源（Apache-2.0）
