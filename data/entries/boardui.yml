@@ -1,0 +1,15 @@
+name: BoardUI
+url: https://www.boardui.com/
+type: single
+category: components
+blurb: React + Tailwind v4 design system for dashboards and agentic UIs; CLI/MCP installs editable source components, charts, and Pro templates.
+stack:
+  - React
+  - Tailwind CSS v4
+  - React Aria
+  - Figma
+pricing: Freemium（基础 MIT 免费；图表 / agent 组件 / 整页模板 Pro）
+reason: 源码落地、shadcn 风格 registry，并专做 agent composer、token meter 与 MCP，适合后台与 AI 产品界面，而不是锁定的 npm 黑盒组件库。
+notes: 约 103 组件 + 19 charts + 10 Pro templates；`npx boardui@latest`；MCP https://www.boardui.com/mcp。
+status: published
+updated: "2026-11-02"
