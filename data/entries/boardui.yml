@@ -1,6 +1,6 @@
 name: BoardUI
 url: https://www.boardui.com/
-type: single
+type: single-tool
 category: components
 blurb: React + Tailwind v4 design system for dashboards and agentic UIs; CLI/MCP installs editable source components, charts, and Pro templates.
 stack:
