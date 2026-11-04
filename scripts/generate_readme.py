@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ENTRIES_DIR = ROOT / "data" / "entries"
 README_PATH = ROOT / "README.md"
 
-TYPES = {"single", "component", "collection"}
+TYPES = {"single", "single-tool", "component", "collection"}
 CATEGORIES = (
     "create",
     "workspace",
@@ -120,6 +120,10 @@ def load_entries() -> list[dict]:
         if pricing is not None and not isinstance(pricing, str):
             fail(f"{path.name}: pricing must be a string")
 
+        license_note = data.get("license")
+        if license_note is not None and not isinstance(license_note, str):
+            fail(f"{path.name}: license must be a string")
+
         entries.append(
             {
                 "name": name,
@@ -129,6 +133,7 @@ def load_entries() -> list[dict]:
                 "blurb": " ".join(as_text(data["blurb"]).split()),
                 "stack": [item.strip() for item in stack],
                 "pricing": as_text(pricing),
+                "license": as_text(license_note),
                 "reason": " ".join(as_text(data["reason"]).split()),
                 "notes": " ".join(as_text(notes).split()),
                 "status": "published",
@@ -166,6 +171,8 @@ def render(entries: list[dict]) -> str:
                 meta.append("Stack: " + ", ".join(entry["stack"]))
             if entry["pricing"]:
                 meta.append("Pricing: " + entry["pricing"])
+            if entry["license"]:
+                meta.append("License: " + entry["license"])
             if meta:
                 lines.append("  > " + " · ".join(meta))
             if entry["notes"]:

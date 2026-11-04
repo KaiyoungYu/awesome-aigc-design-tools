@@ -1,0 +1,16 @@
+name: Shaders
+url: https://shaders.com/
+type: single-tool
+category: motion
+blurb: Declarative WebGPU visual effects for React, Vue, Svelte, Solid and JS — fluid gradients, liquid metal, cursor particles, and more.
+stack:
+  - WebGPU
+  - React
+  - Vue
+  - Svelte
+  - Solid
+pricing: 核心 MIT 免费（npm + 编辑器导出）；Pro $199/年（预设库 / sections / MCP）
+reason: 把流体渐变、液态金属、光标粒子等难啃的 GPU 效果收成声明式组件，引进就能跑；官网可在线调参导出，AI/MCP 也能直接装进项目，适合把产品官网质感拉高。
+notes: GitHub shader-effects-inc/shaders；引擎与框架绑定 MIT；Pro 预设/MCP 另计。需 WebGPU 浏览器。
+status: published
+updated: "2026-11-04"

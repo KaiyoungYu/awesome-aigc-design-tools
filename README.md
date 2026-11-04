@@ -12,15 +12,15 @@ Collect great AIGC powered ui ux design tools.
 
 ## Workspace
 
-- [Opentu](https://opentu.ai/) — Open-source canvas-first AI workspace that routes multi-model generation, tools, assets, and knowledge in one place.
-  > 推荐理由：以画布把多模型生成、工具与素材收进同一工作区，符合 workspace；开源可自托管，适合需要持续执行 AI 创作任务的设计/产品流程；GitHub 仓库现为 ljquan/opentu（原 aitu）。
-  > Stack: TypeScript · Pricing: 开源
-  > 注意：偏通用 AI 画布工作台，不是 UI/UX 专用创作产品。
-
 - [Breatic](https://github.com/orime-org/breatic) — Source-available collaborative creation workspace with shared documents, AI canvases, and project-aware agents.
   > 推荐理由：共享简报、参考素材和画布迭代保留在同一项目中；多人实时协作，Agent 文档改写由人审阅后采用。
   > Stack: TypeScript, React, Yjs, Hocuspocus · License: Elastic-2.0（source-available）
   > 注意：是内容创作工作空间，不是 UI/UX 专用生成器；内部部署按许可允许，存储和模型服务需另行配置、成本另计。
+
+- [Opentu](https://opentu.ai/) — Open-source canvas-first AI workspace that routes multi-model generation, tools, assets, and knowledge in one place.
+  > 推荐理由：以画布把多模型生成、工具与素材收进同一工作区，符合 workspace；开源可自托管，适合需要持续执行 AI 创作任务的设计/产品流程；GitHub 仓库现为 ljquan/opentu（原 aitu）。
+  > Stack: TypeScript · Pricing: 开源
+  > 注意：偏通用 AI 画布工作台，不是 UI/UX 专用创作产品。
 
 ## Components
 
@@ -64,6 +64,11 @@ Collect great AIGC powered ui ux design tools.
   > 注意：X @remixdesigner；仓 github.com/Remix-Design/RemixIcon；亦有 @remixicon/react。
 
 ## Motion
+
+- [Shaders](https://shaders.com/) — Declarative WebGPU visual effects for React, Vue, Svelte, Solid and JS — fluid gradients, liquid metal, cursor particles, and more.
+  > 推荐理由：把流体渐变、液态金属、光标粒子等难啃的 GPU 效果收成声明式组件，引进就能跑；官网可在线调参导出，AI/MCP 也能直接装进项目，适合把产品官网质感拉高。
+  > Stack: WebGPU, React, Vue, Svelte, Solid · Pricing: 核心 MIT 免费（npm + 编辑器导出）；Pro $199/年（预设库 / sections / MCP）
+  > 注意：GitHub shader-effects-inc/shaders；引擎与框架绑定 MIT；Pro 预设/MCP 另计。需 WebGPU 浏览器。
 
 - [Trail Cursor (Cursify)](https://cursify.ui-layouts.com/components/trail-cursor) — React trail/cursor effect component.
   > 推荐理由：轻量鼠标拖尾交互，含 reduced-motion，适合 toolsite/动效参考。
