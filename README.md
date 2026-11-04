@@ -75,6 +75,11 @@ Collect great AIGC powered ui ux design tools.
 
 ## Motion
 
+- [Shaders](https://shaders.com/) — Declarative WebGPU visual effects for React, Vue, Svelte, Solid and JS — fluid gradients, liquid metal, cursor particles, and more.
+  > 推荐理由：把流体渐变、液态金属、光标粒子等难啃的 GPU 效果收成声明式组件，引进就能跑；官网可在线调参导出，AI/MCP 也能直接装进项目，适合把产品官网质感拉高。
+  > Stack: WebGPU, React, Vue, Svelte, Solid · Pricing: 核心 MIT 免费（npm + 编辑器导出）；Pro $199/年（预设库 / sections / MCP）
+  > 注意：GitHub shader-effects-inc/shaders；引擎与框架绑定 MIT；Pro 预设/MCP 另计。需 WebGPU 浏览器。
+
 - [Trail Cursor (Cursify)](https://cursify.ui-layouts.com/components/trail-cursor) — React trail/cursor effect component.
   > 推荐理由：轻量鼠标拖尾交互，含 reduced-motion，适合 toolsite/动效参考。
 
