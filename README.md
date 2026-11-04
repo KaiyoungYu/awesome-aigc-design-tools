@@ -93,6 +93,13 @@ Collect great AIGC powered ui ux design tools.
 - [Trail Cursor (Cursify)](https://cursify.ui-layouts.com/components/trail-cursor) — React trail/cursor effect component.
   > 推荐理由：轻量鼠标拖尾交互，含 reduced-motion，适合 toolsite/动效参考。
 
+## Inspiration
+
+- [Designeer](https://designeer.xyz/) — Hand-curated catalogue of design inspiration, UI/motion resources, tools, and portfolios for designers and developers.
+  > 推荐理由：手挑的设计工程师向目录——灵感站、UI/动效/字体资源、工具与作品集（数百条量级），缺灵感时翻一圈很管用；站内也收录 Agents/MCP 相关工具。
+  > Pricing: 免费浏览
+  > 注意：目录本身不是 MCP 服务；MCP/agent 是站内收录的一类资源。designeer.org 为相关内容域。
+
 ## Learn
 
 - [KurTips (Kurt Wei)](https://kurtwei.com/) — Blender tutorial brand and personal site by Kurt Wei, a former product engineer turned 3D artist and educator.
