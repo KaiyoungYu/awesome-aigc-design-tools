@@ -75,6 +75,11 @@ Collect great AIGC powered ui ux design tools.
 
 ## Motion
 
+- [Motion Reference](https://motion-reference.takayustudio.jp/) — Takayu Studio's motion and easing dictionary — look up feel by name, speed, and easing, then copy CSS, AE recipes, and minimal code.
+  > 推荐理由：把大量动画缓动按名称/速度/手感拆开查，可直接拷 CSS 缓动值、AE 配方和最小实现；告别凭玄学调参。作者 Takayu（takayustudio.jp）。
+  > Stack: CSS, After Effects · Pricing: 免费
+  > 注意：日文站；另有 3D 缓动参考 takayustudio.jp/3d-motion-reference。
+
 - [Shaders](https://shaders.com/) — Declarative WebGPU visual effects for React, Vue, Svelte, Solid and JS — fluid gradients, liquid metal, cursor particles, and more.
   > 推荐理由：把流体渐变、液态金属、光标粒子等难啃的 GPU 效果收成声明式组件，引进就能跑；官网可在线调参导出，AI/MCP 也能直接装进项目，适合把产品官网质感拉高。
   > Stack: WebGPU, React, Vue, Svelte, Solid · Pricing: 核心 MIT 免费（npm + 编辑器导出）；Pro $199/年（预设库 / sections / MCP）
