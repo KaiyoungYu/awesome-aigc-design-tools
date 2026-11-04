@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ENTRIES_DIR = ROOT / "data" / "entries"
 README_PATH = ROOT / "README.md"
 
-TYPES = {"single", "component", "collection"}
+TYPES = {"single-tool", "component", "collection"}
 CATEGORIES = (
     "create",
     "workspace",

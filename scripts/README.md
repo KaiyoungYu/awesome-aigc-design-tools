@@ -38,7 +38,7 @@ A collection expands to individual entries. Showcase sites are usually not entri
 | --- | --- | --- |
 | `name` | yes | Display name |
 | `url` | yes | Canonical `https` URL |
-| `type` | yes | `single`, `component`, or `collection` |
+| `type` | yes | `single-tool`, `component`, or `collection`. `single-tool` is a single-purpose product (单一目的的产品). |
 | `category` | yes | `create`, `workspace`, `components`, `motion`, `inspiration`, `learn`, or `plugin` |
 | `blurb` | yes | Short English one-liner |
 | `stack` | no | List of strings |

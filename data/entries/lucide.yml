@@ -1,6 +1,6 @@
 name: Lucide
 url: https://lucide.dev/
-type: single
+type: single-tool
 category: components
 blurb: Community-maintained open icon toolkit (1600+ SVGs), Feather fork, with official packages across major frameworks.
 stack:

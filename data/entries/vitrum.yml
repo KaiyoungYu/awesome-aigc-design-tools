@@ -1,0 +1,13 @@
+name: Vitrum
+url: https://usevitrum.com
+type: single-tool
+category: create
+blurb: Browser-local tool that turns SVG/PNG logos into glass, metal, or colour 3D icons and exports PNG, GLB, or STL.
+stack:
+  - TypeScript
+  - Three.js
+pricing: 免费 / 开源（beta；无账号，文件不出设备）
+reason: 轮廓自动识别且保留镂空，约 29 种材质预设，一条链路覆盖设计稿 PNG、Web 用 GLB 与打印 STL；全本地、零上手成本，补上「平面标 → 精致 3D 图标」这块空白。
+notes: 复杂或低对比 logo 可能描边不稳；不是完整 3D 编辑器，也无批量。开源仓 https://github.com/volkanakyel/vitrum-3d
+status: published
+updated: "2026-11-04"
