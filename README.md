@@ -33,6 +33,16 @@ Collect great AIGC powered ui ux design tools.
   > Stack: React, Tailwind CSS v4, React Aria, Figma · Pricing: Freemium（基础 MIT 免费；图表 / agent 组件 / 整页模板 Pro）
   > 注意：约 103 组件 + 19 charts + 10 Pro templates；`npx boardui@latest`；MCP https://www.boardui.com/mcp。
 
+- [Hugeicons](https://hugeicons.com/) — Large multi-style icon system (60k+; 6k+ free Stroke Rounded) for web, mobile, and Figma, with framework packages and MCP.
+  > 推荐理由：体量大、线面与多风格齐全，适合功能图标的状态成组（开/关、展开/折叠等）；和 Lucide、Qing Icon 互补，偏产品完成度与多端交付。
+  > Stack: React, Vue, Figma, MCP · Pricing: Freemium（免费 Stroke Rounded MIT；Pro 多风格按席位）
+  > 注意：X @huge_icons；仓 github.com/hugeicons/hugeicons。Pro 不可作为可下载模板/开源包再分发。
+
+- [Lucide](https://lucide.dev/) — Community-maintained open icon toolkit (1600+ SVGs), Feather fork, with official packages across major frameworks.
+  > 推荐理由：轻量一致的默认功能图标底座，社区活跃、包生态全；产品里表意优先的系统图标常从 Lucide 起步，再按需换成 Remix / Hugeicons 等。
+  > Stack: React, Vue, Svelte, Figma · Pricing: 开源（ISC）
+  > 注意：仓 github.com/lucide-icons/lucide；不收录品牌 logo。
+
 - [Qing Icon](https://qingicon.com/) — Free neutral UI icon library (3900+) with line/fill/sketch, React & Vue, Figma plugin, and MCP for AI tools.
   > 推荐理由：中性、光学一致、中英检索，且 MCP 方便 AI 直接找图标出码，适合 AI/云产品界面。
   > Stack: React, Vue, Figma, MCP · Pricing: 开源（Apache-2.0）
@@ -42,6 +52,11 @@ Collect great AIGC powered ui ux design tools.
   > 推荐理由：创意动效更新快，含玻璃/物理等可落地组件，适合想和「AI 同质化界面」拉开差距的站点。
   > Stack: React, TypeScript, WebGL · Pricing: 免费（自定义许可，成品可用）
   > 注意：不可再分发为组件库/模板；仓 github.com/crisjavr/reactdrops。
+
+- [Remix Icon](https://remixicon.com/) — Open-source neutral system icons (3200+) with paired Outlined and Filled styles on a 24×24 grid.
+  > 推荐理由：line/fill 成对设计，正好支撑开/关、启用/禁用等状态切换；中性一致、检索友好，也含不少 AI 相关图标。
+  > Stack: SVG, React, Figma · Pricing: 免费（Remix Icon License，可商用）
+  > 注意：X @remixdesigner；仓 github.com/Remix-Design/RemixIcon；亦有 @remixicon/react。
 
 ## Motion
 
