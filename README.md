@@ -34,6 +34,11 @@ Collect great AIGC powered ui ux design tools.
   > Stack: React, TypeScript · Pricing: 开源（MIT）
   > 注意：非任天堂官方；仓 github.com/guokaigdg/animal-island-ui。个别文档曾写非商用，以根目录 MIT LICENSE 为准。
 
+- [Bencho](https://bencho.dev/) — Live React UI components and micro-interactions you can tune, copy as source, and pull into projects via MCP.
+  > 推荐理由：约 158 个可现场调参的 live block（非录屏），免费可直接拷进项目；Pro 用 MCP 让 Cursor/Claude 按需搜块贴代码，对在乎手感的设计/前端很实用。独立作者 Lorenzo Cabra，另有 Finds 画廊、合成 UI 音效、Bench 并排调参画布。
+  > Stack: React · Pricing: 部分免费（MIT）；Pro €99/年；Forever €129 买断（全量源码 + MCP）
+  > 注意：Free blocks MIT；Pro 另有许可。源码 github.com/cabralorenzo/bencho；MCP 需 Pro key。
+
 - [beUI](https://beui.dev/) — Animated components for React and Next.js (Motion + Tailwind, open source).
   > 推荐理由：动效完成度高、可复制进项目，工程友好，覆盖 Web + Native。
   > Stack: React, Next, Motion, Tailwind, RN · Pricing: MIT + Pro
