@@ -1,0 +1,12 @@
+name: Bencho
+url: https://bencho.dev/
+type: single-tool
+category: components
+blurb: Live React UI components and micro-interactions you can tune, copy as source, and pull into projects via MCP.
+stack:
+  - React
+pricing: 部分免费（MIT）；Pro €99/年；Forever €129 买断（全量源码 + MCP）
+reason: 约 158 个可现场调参的 live block（非录屏），免费可直接拷进项目；Pro 用 MCP 让 Cursor/Claude 按需搜块贴代码，对在乎手感的设计/前端很实用。独立作者 Lorenzo Cabra，另有 Finds 画廊、合成 UI 音效、Bench 并排调参画布。
+notes: Free blocks MIT；Pro 另有许可。源码 github.com/cabralorenzo/bencho；MCP 需 Pro key。
+status: published
+updated: "2026-11-04"
