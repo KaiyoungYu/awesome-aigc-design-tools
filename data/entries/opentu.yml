@@ -1,6 +1,6 @@
 name: Opentu
 url: https://opentu.ai/
-type: single
+type: single-tool
 category: workspace
 blurb: Open-source canvas-first AI workspace that routes multi-model generation, tools, assets, and knowledge in one place.
 stack:

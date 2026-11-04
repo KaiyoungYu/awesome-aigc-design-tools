@@ -10,7 +10,7 @@ python3 scripts/generate_readme.py
 
 Requires Python 3 and [PyYAML](https://pypi.org/project/PyYAML/) (`pip install pyyaml`).
 
-Published entries are grouped by category. Each item shows the English blurb and a `推荐理由` line from `reason`. `stack`, `pricing`, `license`, and `notes` are included when set.
+Published entries are grouped by category. Each item shows the English blurb and a `推荐理由` line from `reason`. `stack`, `pricing`, and `notes` are included when set.
 
 ## Categories
 
@@ -38,12 +38,11 @@ A collection expands to individual entries. Showcase sites are usually not entri
 | --- | --- | --- |
 | `name` | yes | Display name |
 | `url` | yes | Canonical `https` URL |
-| `type` | yes | `single`, `single-tool`, `component`, or `collection`. `single-tool` is a single-purpose product (单一目的的产品); `single` remains accepted for existing entries. |
+| `type` | yes | `single-tool`, `component`, or `collection`. `single-tool` is a single-purpose product (单一目的的产品). |
 | `category` | yes | `create`, `workspace`, `components`, `motion`, `inspiration`, `learn`, or `plugin` |
 | `blurb` | yes | Short English one-liner |
 | `stack` | no | List of strings |
-| `pricing` | no | Short note. Rendered as `Pricing:`. |
-| `license` | no | Short license note. Rendered as `License:`. |
+| `pricing` | no | Short note |
 | `reason` | yes | Recommendation reason (Chinese or English) |
 | `notes` | no | Risks or caveats |
 | `status` | yes | `published` |

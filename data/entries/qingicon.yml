@@ -1,6 +1,6 @@
 name: Qing Icon
 url: https://qingicon.com/
-type: single
+type: single-tool
 category: components
 blurb: Free neutral UI icon library (3900+) with line/fill/sketch, React & Vue, Figma plugin, and MCP for AI tools.
 stack:

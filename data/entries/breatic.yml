@@ -8,7 +8,7 @@ stack:
   - React
   - Yjs
   - Hocuspocus
-license: Elastic-2.0（source-available）
+pricing: Elastic-2.0（source-available）
 reason: 共享简报、参考素材和画布迭代保留在同一项目中；多人实时协作，Agent 文档改写由人审阅后采用。
 notes: 是内容创作工作空间，不是 UI/UX 专用生成器；内部部署按许可允许，存储和模型服务需另行配置、成本另计。
 status: published
