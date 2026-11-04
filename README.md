@@ -4,6 +4,11 @@ Collect great AIGC powered ui ux design tools.
 
 ## Create
 
+- [Anyway.Fonts](https://anyway.fm/fonts) — Chinese-first font preview — missing-glyph check, specimen posters, vertical layout, and plain-language OpenType feature lookup.
+  > 推荐理由：更贴中文场景的字体预览：查缺字并筛选、中文样张与竖排预览、多字体对比，加上说人话的 OpenType 特性查询。Anyway.FM / JJ Ying 出品。
+  > Stack: Web · Pricing: 免费（本机解析字体，不上传；建议 Chrome / Edge）
+  > 注意：Safari 读本机第三方字体受限；字体文件不上传服务器。
+
 - [Onlook](https://onlook.com/) — The Cursor for Designers
   > 推荐理由：定位清晰的「设计师版 Cursor」，把 AI 直接嵌进设计制作流程。
 
