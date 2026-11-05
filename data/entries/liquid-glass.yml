@@ -1,0 +1,14 @@
+name: Liquid Glass
+url: https://liquid-glass.glassapp.dev/
+type: single-tool
+category: components
+blurb: WebGPU React/web/Electron glass surfaces and controls with live physical refraction (Clear/Regular, light/dark)—far beyond CSS blur.
+stack:
+  - React
+  - WebGPU
+  - TypeScript
+pricing: 免费 / 开源（MIT；npm `@glass-sdk/liquid-glass` ~0.0.2）
+reason: WebGPU 实时物理折射的玻璃材质，拖动时背景像凸透镜扭曲，质感吊打普通 CSS blur；Scene/Surface/Button/Toolbar/Tabs/Menu/Slider 等一整套可落地控件，演示站手感很顶。
+notes: "React 19+；需 HTTPS/localhost + WebGPU；Safari 有已知渲染问题。仓 https://github.com/Glass-HQ/liquid-glass；示例 https://liquid-glass.glassapp.dev/#examples。同题材另有 glassy-liquid（WebGL），本条只收录 Liquid Glass。"
+status: published
+updated: "2026-11-05"
