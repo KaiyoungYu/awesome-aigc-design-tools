@@ -58,6 +58,11 @@ Collect great AIGC powered ui ux design tools.
   > Stack: React, Vue, Figma, MCP · Pricing: Freemium（免费 Stroke Rounded MIT；Pro 多风格按席位）
   > 注意：X @huge_icons；仓 github.com/hugeicons/hugeicons。Pro 不可作为可下载模板/开源包再分发。
 
+- [Liquid Glass](https://liquid-glass.glassapp.dev/) — WebGPU React/web/Electron glass surfaces and controls with live physical refraction (Clear/Regular, light/dark)—far beyond CSS blur.
+  > 推荐理由：WebGPU 实时物理折射的玻璃材质，拖动时背景像凸透镜扭曲，质感吊打普通 CSS blur；Scene/Surface/Button/Toolbar/Tabs/Menu/Slider 等一整套可落地控件，演示站手感很顶。
+  > Stack: React, WebGPU, TypeScript · Pricing: 免费 / 开源（MIT；npm `@glass-sdk/liquid-glass` ~0.0.2）
+  > 注意：React 19+；需 HTTPS/localhost + WebGPU；Safari 有已知渲染问题。仓 https://github.com/Glass-HQ/liquid-glass；示例 https://liquid-glass.glassapp.dev/#examples。同题材另有 glassy-liquid（WebGL），本条只收录 Liquid Glass。
+
 - [Lucide](https://lucide.dev/) — Community-maintained open icon toolkit (1600+ SVGs), Feather fork, with official packages across major frameworks.
   > 推荐理由：轻量一致的默认功能图标底座，社区活跃、包生态全；产品里表意优先的系统图标常从 Lucide 起步，再按需换成 Remix / Hugeicons 等。
   > Stack: React, Vue, Svelte, Figma · Pricing: 开源（ISC）
