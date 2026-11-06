@@ -9,8 +9,28 @@ Collect great AIGC powered ui ux design tools.
   > Stack: Web · Pricing: 免费（本机解析字体，不上传；建议 Chrome / Edge）
   > 注意：Safari 读本机第三方字体受限；字体文件不上传服务器。
 
+- [Center Stage](https://reactbits.dev/tools/center-stage) — Turn screenshots or screen recordings into device-framed product shots with 3D tilt, depth of field, shadows and typography; export 4K images/video or GIF.
+  > 推荐理由：把原始截图/录屏直接变成有景深、设备与光影的发布演示，补齐从界面做到产品展示的最后一步；比纯静态 mockup 更能处理视频和 GIF。
+  > Stack: React · Pricing: 免费
+  > 注意：ReactBits Creative Tools 的独立产品，正式名称是 Center Stage（不是 Center Satge）。
+
 - [Onlook](https://onlook.com/) — The Cursor for Designers
   > 推荐理由：定位清晰的「设计师版 Cursor」，把 AI 直接嵌进设计制作流程。
+
+- [Shape Magic](https://reactbits.dev/tools/shape-magic) — Logo mark editor using smart shapes, patterns, text or imported SVG with chrome, glass, neon and animated backgrounds; exports SVG, PNG, favicon, video or React.
+  > 推荐理由：在浏览器里把几何标记、图案与材质串成一条视觉制作链路，导出不止位图，还有 SVG、favicon 和 React，适合快速做品牌小图形与页面视觉。
+  > Stack: React · Pricing: 免费
+  > 注意：ReactBits Creative Tools 的独立产品；材质和背景来自 ReactBits 生态，本条聚焦标记编辑与导出。
+
+- [Sound Lab](https://reactbits.dev/tools/sound-lab) — Tune UI and video sounds, including taps, toggles, notifications, risers and whooshes; install via command or export WAV, MP3 or OGG.
+  > 推荐理由：为 UI 微交互与演示视频补配乐之外的细节声响：音高、音色、长度和空间都可调，且能直接装进项目或下载通用音频，适合在意手感的设计/前端。
+  > Pricing: 免费
+  > 注意：ReactBits Creative Tools 的独立产品；不是完整 DAW 或自动配乐产品。
+
+- [Texture Lab](https://reactbits.dev/tools/texture-lab) — Style photos, videos or camera input with 160 one-click looks and 75+ stackable animated effects, then export image, video, GIF or a shareable style.
+  > 推荐理由：把 ASCII、半调、故障、玻璃等风格素材制作做成可叠加的实时编辑器，不只展示组件而是能直接产出图片/视频/GIF，做不同质感视觉很省事。
+  > Stack: React, WebGL · Pricing: 免费
+  > 注意：ReactBits Creative Tools 的独立产品；官方页面列有 160 一键风格与 75+ 可叠加动效。
 
 - [UIZard](https://uizard.io/) — Visualize, communicate, and iterate on wireframes and prototypes in minutes. Empower your product team with AI!
   > 推荐理由：把线框、沟通、迭代压到分钟级，适合产品/设计团队快速对齐界面方案。
@@ -38,6 +58,11 @@ Collect great AIGC powered ui ux design tools.
   > 推荐理由：风格统一、组件齐全且带 AI 用法文档，适合做风格化界面练习与快速原型。
   > Stack: React, TypeScript · Pricing: 开源（MIT）
   > 注意：非任天堂官方；仓 github.com/guokaigdg/animal-island-ui。个别文档曾写非商用，以根目录 MIT LICENSE 为准。
+
+- [Background Studio](https://reactbits.dev/tools/background-studio) — Browser editor for tuning ReactBits animated backgrounds, with code, high-resolution image, looping MP4/WebM and shareable-link exports.
+  > 推荐理由：不用先读几十个组件文档就能实时调背景，再按需要带走代码或成品素材；做落地页氛围背景时很直接。
+  > Stack: React, WebGL · Pricing: 免费
+  > 注意：ReactBits Creative Tools 的独立产品；本条不重复收录其父级 ReactBits 组件库。
 
 - [Bencho](https://bencho.dev/) — Live React UI components and micro-interactions you can tune, copy as source, and pull into projects via MCP.
   > 推荐理由：约 158 个可现场调参的 live block（非录屏），免费可直接拷进项目；Pro 用 MCP 让 Cursor/Claude 按需搜块贴代码，对在乎手感的设计/前端很实用。独立作者 Lorenzo Cabra，另有 Finds 画廊、合成 UI 音效、Bench 并排调参画布。
@@ -72,6 +97,11 @@ Collect great AIGC powered ui ux design tools.
   > 推荐理由：中性、光学一致、中英检索，且 MCP 方便 AI 直接找图标出码，适合 AI/云产品界面。
   > Stack: React, Vue, Figma, MCP · Pricing: 开源（Apache-2.0）
   > 注意：Fill 仍在补齐；sketch 仅官网/Figma；开源仓 github.com/asorn/qingicon-open。
+
+- [ReactBits](https://reactbits.dev/) — Animated React components, backgrounds, text and micro-interactions with editable JS/TS and CSS/Tailwind source via copy, shadcn CLI or MCP.
+  > 推荐理由：老牌动效库持续上新，也能看到不少新库二次设计的原型；每个组件都提供 JS/TS 与 CSS/Tailwind 四种源码，结合 shadcn CLI/MCP 方便让 AI 按实装选组件；官网视觉也持续迭代。
+  > Stack: React, TypeScript, WebGL · Pricing: 个人及商用免费（MIT + Commons Clause；组件本身不可转售或再分发）
+  > 注意：Creative Tools 下五个独立产品已分别入库，本条不再重复收录；源码仓 https://github.com/DavidHDev/react-bits。
 
 - [ReactDrops](https://reactdrops.dev/) — React animation and effect components with live previews, editable source, and frequent new drops (incl. Apple Music–style effects).
   > 推荐理由：创意动效更新快，含玻璃/物理等可落地组件，适合想和「AI 同质化界面」拉开差距的站点。

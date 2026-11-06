@@ -1,0 +1,14 @@
+name: ReactBits
+url: https://reactbits.dev/
+type: collection
+category: components
+blurb: Animated React components, backgrounds, text and micro-interactions with editable JS/TS and CSS/Tailwind source via copy, shadcn CLI or MCP.
+stack:
+  - React
+  - TypeScript
+  - WebGL
+pricing: 个人及商用免费（MIT + Commons Clause；组件本身不可转售或再分发）
+reason: 老牌动效库持续上新，也能看到不少新库二次设计的原型；每个组件都提供 JS/TS 与 CSS/Tailwind 四种源码，结合 shadcn CLI/MCP 方便让 AI 按实装选组件；官网视觉也持续迭代。
+notes: Creative Tools 下五个独立产品已分别入库，本条不再重复收录；源码仓 https://github.com/DavidHDev/react-bits。
+status: published
+updated: "2026-11-06"
