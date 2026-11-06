@@ -1,0 +1,13 @@
+name: Background Studio
+url: https://reactbits.dev/tools/background-studio
+type: single-tool
+category: components
+blurb: Browser editor for tuning ReactBits animated backgrounds, with code, high-resolution image, looping MP4/WebM and shareable-link exports.
+stack:
+  - React
+  - WebGL
+pricing: 免费
+reason: 不用先读几十个组件文档就能实时调背景，再按需要带走代码或成品素材；做落地页氛围背景时很直接。
+notes: ReactBits Creative Tools 的独立产品；本条不重复收录其父级 ReactBits 组件库。
+status: published
+updated: "2026-11-06"

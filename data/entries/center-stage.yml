@@ -1,0 +1,12 @@
+name: Center Stage
+url: https://reactbits.dev/tools/center-stage
+type: single-tool
+category: create
+blurb: Turn screenshots or screen recordings into device-framed product shots with 3D tilt, depth of field, shadows and typography; export 4K images/video or GIF.
+stack:
+  - React
+pricing: 免费
+reason: 把原始截图/录屏直接变成有景深、设备与光影的发布演示，补齐从界面做到产品展示的最后一步；比纯静态 mockup 更能处理视频和 GIF。
+notes: ReactBits Creative Tools 的独立产品，正式名称是 Center Stage（不是 Center Satge）。
+status: published
+updated: "2026-11-06"

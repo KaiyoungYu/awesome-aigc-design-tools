@@ -1,0 +1,12 @@
+name: Shape Magic
+url: https://reactbits.dev/tools/shape-magic
+type: single-tool
+category: create
+blurb: Logo mark editor using smart shapes, patterns, text or imported SVG with chrome, glass, neon and animated backgrounds; exports SVG, PNG, favicon, video or React.
+stack:
+  - React
+pricing: 免费
+reason: 在浏览器里把几何标记、图案与材质串成一条视觉制作链路，导出不止位图，还有 SVG、favicon 和 React，适合快速做品牌小图形与页面视觉。
+notes: ReactBits Creative Tools 的独立产品；材质和背景来自 ReactBits 生态，本条聚焦标记编辑与导出。
+status: published
+updated: "2026-11-06"

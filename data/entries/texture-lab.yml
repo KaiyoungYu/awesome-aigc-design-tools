@@ -1,0 +1,13 @@
+name: Texture Lab
+url: https://reactbits.dev/tools/texture-lab
+type: single-tool
+category: create
+blurb: Style photos, videos or camera input with 160 one-click looks and 75+ stackable animated effects, then export image, video, GIF or a shareable style.
+stack:
+  - React
+  - WebGL
+pricing: 免费
+reason: 把 ASCII、半调、故障、玻璃等风格素材制作做成可叠加的实时编辑器，不只展示组件而是能直接产出图片/视频/GIF，做不同质感视觉很省事。
+notes: ReactBits Creative Tools 的独立产品；官方页面列有 160 一键风格与 75+ 可叠加动效。
+status: published
+updated: "2026-11-06"

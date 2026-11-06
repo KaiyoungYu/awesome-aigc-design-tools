@@ -1,0 +1,10 @@
+name: Sound Lab
+url: https://reactbits.dev/tools/sound-lab
+type: single-tool
+category: create
+blurb: Tune UI and video sounds, including taps, toggles, notifications, risers and whooshes; install via command or export WAV, MP3 or OGG.
+pricing: 免费
+reason: 为 UI 微交互与演示视频补配乐之外的细节声响：音高、音色、长度和空间都可调，且能直接装进项目或下载通用音频，适合在意手感的设计/前端。
+notes: ReactBits Creative Tools 的独立产品；不是完整 DAW 或自动配乐产品。
+status: published
+updated: "2026-11-06"
