@@ -42,7 +42,7 @@ Collect great AIGC powered ui ux design tools.
 
 ## Workspace
 
-- [Breatic](https://github.com/orime-org/breatic) — Source-available collaborative creation workspace with shared documents, AI canvases, and project-aware agents.
+- [Breatic](https://github.com/orime-org/breatic) — Open-source collaborative creation workspace with shared documents, AI canvases, and project-aware agents.
   > 推荐理由：共享简报、参考素材和画布迭代保留在同一项目中；多人实时协作，Agent 文档改写由人审阅后采用。
   > Stack: TypeScript, React, Yjs, Hocuspocus · Pricing: Elastic-2.0（source-available）
   > 注意：是内容创作工作空间，不是 UI/UX 专用生成器；内部部署按许可允许，存储和模型服务需另行配置、成本另计。
